@@ -1,0 +1,227 @@
+[
+    {
+        "type": "3D",
+        "projects": [
+            {
+                "desc": "Sudocrypt v11.0 Trailer",
+                "image": "/projects/3d/sudocrypt.jpg",
+                "link": "https://www.youtube.com/watch?v=V_HjXwoRlAM"
+            },
+            {
+                "desc": "Exun 2021-22 Intro",
+                "image": "/projects/3d/exun22intro.jpg",
+                "link": "https://www.youtube.com/watch?v=E7iSalhLUMA"
+            },
+            {
+                "desc": "Exun 2021-22 promo",
+                "image": "/projects/test.png",
+                "link": "https://www.instagram.com/reel/CXlWxLIFxKM/"
+            },
+            {
+                "desc": "DeCryptonite 2022 Trailer",
+                "image": "/projects/3d/decryptonite.jpg",
+                "link": "https://www.youtube.com/watch?v=ikxGtmGmj0Y"
+            },
+            {
+                "desc": "DPS IT Fest 2022",
+                "image": "/projects/3d/itfest.jpg",
+                "link": "https://www.youtube.com/watch?v=y1iyAFSCWas"
+            }
+        ]
+    },
+    {
+        "type": "Design",
+        "projects": [
+            {
+                "desc": "Chocolate Factory",
+                "image": "/projects/test.png",
+                "link": "https://www.behance.net/gallery/132611583/Charlie-and-the-Chocolate-Factory-UIUX-video-3D"
+            },
+            {
+                "desc": "Steph",
+                "image": "/projects/test.png",
+                "link": "https://www.behance.net/gallery/150200939/Steph-UIUX-Branding"
+            },
+            {
+                "desc": "Pokedex",
+                "image": "/projects/test.png",
+                "link": "https://www.behance.net/gallery/150932677/Pokedex-Branding"
+            },
+            {
+                "desc": "Alecair",
+                "image": "/projects/test.png",
+                "link": "https://www.behance.net/gallery/129858389/Aelecair-for-awareness-of-electric-airplanes"
+            },
+            {
+                "desc": "Venia",
+                "image": "/projects/test.png",
+                "link": "https://www.behance.net/gallery/134558657/VENIA-VEGAN-FOOD-TRUCK"
+            },
+            {
+                "desc": "Agroclima",
+                "image": "/projects/test.png",
+                "link": "https://www.behance.net/gallery/150613299/Agroclima-Blending-crops-with-the-planet"
+            }
+        ]
+    },
+    {
+        "type": "Motion Design",
+        "projects": [
+            {
+                "desc": "CW 2021",
+                "image": "/projects/motion-design/cw-2021.jpg",
+                "link": "https://youtu.be/MihK4sxy-dk"
+            },
+            {
+                "desc": "Core14 2021",
+                "image": "/projects/motion-design/core-2014.jpg",
+                "link": "https://youtu.be/n6nf4_49FIE"
+            },
+            {
+                "desc": "Geek-a-hertz",
+                "image": "/projects/motion-design/geekahertz.jpg",
+                "link": "https://youtu.be/pzzxt6axIt4"
+            },
+            {
+                "desc": "Ordin@trix",
+                "image": "/projects/test.png",
+                "link": "https://youtu.be/bSTLnLCpcM4"
+            },
+            {
+                "desc": "CW 2022",
+                "image": "/projects/motion-design/cw-2022.jpg",
+                "link": "https://youtu.be/JOe5KVQ_jFk"
+            },
+            {
+                "desc": "Hi Chai",
+                "image": "/projects/motion-design/hi-chai.jpg",
+                "link": "https://youtu.be/hZYa6zkPTxU"
+            },
+            {
+                "desc": "Blender 3.0",
+                "image": "/projects/motion-design/blender-3.jpg",
+                "link": "https://youtu.be/4YYhhQsO_J8"
+            },
+            {
+                "desc": "Binary Bots",
+                "image": "/projects/motion-design/binary-bots.jpg",
+                "link": "https://youtu.be/clmNfF0TmkE"
+            }
+        ]
+    },
+    {
+        "type": "App Development",
+        "projects": [
+            {
+                "desc": "Incubo",
+                "image": "/projects/test.png",
+                "link": "https://github.com/Aikagra/Incubo"
+            },
+            {
+                "desc": "Createtech",
+                "image": "/projects/test.png",
+                "link": "https://github.com/Aikagra/CreatechProject"
+            },
+            {
+                "desc": "Exun app 2021",
+                "image": "/projects/test.png",
+                "link": "https://github.com/exunclan/exun-app-2021/"
+            }
+        ]
+    },
+    {
+        "type": "Audio",
+        "projects": [
+            {
+                "desc": "Core",
+                "image": "/projects/test.png",
+                "link": "https://cdn.discordapp.com/attachments/936592936450260992/1009082168347213884/Core_music.mp3"
+            },
+            {
+                "desc": "Core finals",
+                "image": "/projects/test.png",
+                "link": "https://cdn.discordapp.com/attachments/936592936450260992/1009082287972954162/core_finals.mp3"
+            }
+        ]
+    },
+    {
+        "type": "Web Development",
+        "projects": [
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            },
+            {
+                "desc": "",
+                "image": "/projects/test.png",
+                "link": ""
+            }
+        ]
+    }
+]
